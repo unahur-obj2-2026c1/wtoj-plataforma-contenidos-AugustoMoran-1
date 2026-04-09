@@ -1,0 +1,11 @@
+{
+  "java.server.launchMode": "Standard",
+  "java.jdt.ls.java.home": "",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"]
+  },
+  "java.codeGeneration.generateComments": true,
+  "java.codeGeneration.useBlocks": true
+}
